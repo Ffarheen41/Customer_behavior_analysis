@@ -1,8 +1,8 @@
-Customer Behavior Analytics Project
-Overview
+# Customer Behavior Analytics Project
+## Overview
 This project analyzes customer behavior by exploring purchasing patterns, demographics, subscription status, and other key factors. The aim is to provide actionable insights for business decision-making using Python, SQL, and Power BI. A comprehensive report and presentation have also been created to summarize the findings.
 
-Dataset
+# Dataset
 Description: The dataset contains customer transactions, demographics, purchase details, product categories, review ratings, subscription status, and other relevant attributes.
 
 Format: CSV/Excel (can be loaded into Python or SQL databases).
@@ -15,7 +15,7 @@ Visualization & Dashboard: Power BI
 Report & Presentation: Word/Google Docs, Gamma for PPT
 Others: Jupyter Notebook
 
-Steps
+Steps : 
 1: Data Loading:
 Load dataset into Python using pandas.
 Inspect and understand the structure, types, and basic statistics.
@@ -48,10 +48,10 @@ Dashboard Features
 5: Interactive filters for dynamic exploration
 
 Results
-# Identified key purchasing patterns and trends.
-# Highlighted top customer segments and high-performing product categories.
-# Delivered actionable insights for marketing and business strategies.
-# Created a comprehensive report and presentation summarizing the analysis.
+1. Identified key purchasing patterns and trends.
+2. Highlighted top customer segments and high-performing product categories.
+3. Delivered actionable insights for marketing and business strategies.
+4. Created a comprehensive report and presentation summarizing the analysis.
 
 How to Run
 Python Analysis:
